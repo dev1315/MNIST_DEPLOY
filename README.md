@@ -1,2 +1,4 @@
 # MNIST_DEPLOY
-This was the first project that i saw before starting my journey into the field of Data Science.
+I used keras, streamlit and opencv to build and train the model, deploy as a webapp and build a drawing input window.
+
+<img src='Untitled.png' />
